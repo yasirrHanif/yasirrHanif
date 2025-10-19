@@ -1,6 +1,6 @@
 #   Hi, I'm Muhammad Yasir
 
-![Banner](Banner.png)
+
 
 > *“Turning data into insights that drive real-world impact.”*
 
